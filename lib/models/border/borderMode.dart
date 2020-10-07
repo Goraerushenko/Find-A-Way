@@ -1,0 +1,9 @@
+
+
+enum BorderMode {
+  
+  edit, 
+  
+  game
+  
+}
